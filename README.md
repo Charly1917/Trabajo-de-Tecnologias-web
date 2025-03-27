@@ -1,7 +1,9 @@
 # 👋 Hola, soy Carlos Martinez Rivera
 
 Soy estudiante de la UPEM y actualmente estoy aprendiendo sobre tecnologías web. Este repositorio contiene un formulario que he creado como parte de mi tarea.
-https://yodoozy.com/wp-content/uploads/2021/07/thumbnail-3.jpg
+
+![Imagen de Tecnología](https://yodoozy.com/wp-content/uploads/2021/07/thumbnail-3.jpg)
+
 ## 🚀 Proyecto: Formulario de Contacto
 
 Este proyecto consiste en un formulario de contacto que permite a los usuarios enviar sus datos. El formulario incluye campos para nombre, correo electrónico, mensaje y un botón de envío.
