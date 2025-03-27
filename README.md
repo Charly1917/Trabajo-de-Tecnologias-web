@@ -2,7 +2,7 @@
 
 Soy estudiante de la UPEM y actualmente estoy aprendiendo sobre tecnologías web. Este repositorio contiene un formulario que he creado como parte de mi tarea.
 
-![Banner](https://via.placeholder.com/1200x200.png?text=Formulario+de+Tecnologías+Web)
+[![Banner](https://via.placeholder.com/1200x200.png?text=Formulario+de+Tecnologías+Web)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Ftecnologia-anime&psig=AOvVaw2PjfgomfCi_4aYTOjL3AAU&ust=1743183802790000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj6t-3nqowDFQAAAAAdAAAAABAE)
 
 ## 🚀 Proyecto: Formulario de Contacto
 
