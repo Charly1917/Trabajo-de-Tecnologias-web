@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+    margin: 20px;
+}
+
+.container {
+    max-width: 500px; /* Ajusta el ancho máximo */
+    margin: auto;
+    background: #ffffff;
+    padding: 50px; /* Aumenta el padding para más espacio interno */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2, h3 {
+    color: #343a40;
+    font-size: 20px; /* Aumenta el tamaño de la fuente */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch; /* Alinea los elementos para que ocupen todo el ancho */
+    width: 100%;
+}
+
+label {
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+input {
+    width: 100%; /* Cambia a 100% para que ocupe todo el ancho */
+    padding: 10px; /* Aumenta el padding */
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+button {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    padding: 15px; /* Aumenta el padding */
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 16px; /* Aumenta el tamaño de la fuente */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Cuadro de usuarios registrados */
+.tabla-container {
+    max-width: 400px; /* Asegúrate de que tenga el mismo ancho que el contenedor principal */
+    margin: 10px auto; /* Separación en la parte superior y centrado */
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 10px; /* Añade padding para el cuadro */
+}
+
+table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px; /* Aumenta el padding */
+    text-align: center;
+    font-size: 15px;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
